@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Portal</string>
+    <string name="openDrawer"> Drawer dibuka</string>
+    <string name="closeDrawer">Drawer ditutup</string>
+        <string name="navigation_view_item1">Beranda</string>
+        <string name="navigation_view_item2">Berita Utama</string>
+        <string name="navigation_view_item3">Most Popular</string>
+        <string name="navigation_view_item4">Profil</string>
+    <string name="navigation_category_2"> Sub Item Navigation </string>
+        <string name="navigation_view_item5">About</string>
+</resources>
